@@ -1,0 +1,38 @@
+.jb-table{
+	display:table;
+	text-align:center;
+	font-size: 20px;
+}
+.jb-table-row{
+	display:table-row;
+
+}
+.jb-table-cell{
+	display:table-cell;
+	padding-top:15px;
+	
+
+}
+.join-btn{
+	position:fixed;
+	left:49%;
+	font-size: 20px;
+	padding-top: 5px;
+	margin:0 auto;
+}
+.join-btn input{
+	border:1x solid #ff0080;    /*---테두리 정의---*/
+	background-Color:#ffe6f2;   /*--백그라운드 정의---*/
+	color:#ff0080;    /*--폰트 색깔---*/
+	width:130;height:30;  /*--버튼 크기---*/
+	margin:0 auto;
+}
+.join-btn a{
+	font-size: 5px;
+	text-decoration: none;
+	color:black
+}
+.join-font{
+	font-size:30px;
+	left:49%;
+}

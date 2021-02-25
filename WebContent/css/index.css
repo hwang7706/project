@@ -1,0 +1,79 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+#upside{
+	width:200px;
+	height:200px;
+	overflow:hidden;
+	display:flex;
+	border-right: 1px solid #9a9a9a;
+	border-bottom: 1px solid #9a9a9a;
+	position:relative;
+	left:260px;
+
+}
+#indexmain{
+	width:1920px;
+	position:absolute;
+}
+#indexsub{
+	width:1920;
+	height:100%;
+}
+#downside{
+	width:200px;
+	height:190px;
+	overflow:hidden;
+	display:flex;
+	position:relative;
+	left:60px;
+	border-bottom:1px solid #9a9a9a;
+	border-right:1px solid #9a9a9a;
+}
+#downside img{
+	width:200px;
+	height:200px;
+	position:relative;
+	
+}
+#upside img{
+	width:200px;
+	height:200px;
+}
+#main{
+	width:1920px;
+	height:100%;
+}
+#moredownside{
+	width:40px;
+	height:190px;
+	position:relative;
+	left:20px;
+	border-bottom:1px solid #9a9a9a;
+	border-right:1px solid #9a9a9a;
+}
+#upsidefont{
+		font-family: 'Oswald', sans-serif;
+		font-size:100px;
+		color:black;
+		position:relative;
+		left:500px;
+		top:20px;
+}
+#downsidefont{
+font-family: 'Oswald', sans-serif;
+		font-size:80px;
+		color:black;
+		position:relative;
+		left:300px;
+		top:80px;
+	
+}
+#moredownsidefont{
+	font-family: 'Oswald', sans-serif;
+		font-size:70px;
+		color:black;
+		position:relative;
+		left:100px;
+		top:150px;
+}
